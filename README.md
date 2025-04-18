@@ -2,7 +2,7 @@
 
 # Hi, I'm Przemyslaw
 
-** Junior Full-Stack Developer & Cloud Solutions Architect**  
+**Junior Full-Stack Developer & Cloud Solutions Architect**  
 Lublin, Poland
 
 <br>
