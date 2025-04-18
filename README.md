@@ -2,12 +2,12 @@
 
 # Hi, I'm Przemyslaw
 
-**Junior Full-Stack Developer & Cloud Solutions Architect**  
+**Junior Full-Stack Developer & Cloud Solutions**  
 Lublin, Poland
 
 <br>
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:raczynskyprzemyslaw@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white&color=ea4335" alt="Email Badge"/>
 </a>
 <a href="https://www.linkedin.com/in/praczynsky/">
@@ -23,24 +23,30 @@ Lublin, Poland
 
 ## 🚀 Featured Projects
 
-### [FullStackLessonPlanApp](https://github.com/Klegus/FullStackLessonPlanApp)
-A modern, containerized platform for managing and distributing lesson schedules.  
-**Highlights:**  
+### [Full-Stack LessonPlanApp](https://github.com/Klegus/FullStackLessonPlanApp)
+A modern, containerized platform for managing and distributing lesson schedules, officially adopted by WSPA University.
+
+**Problem:**  
+The university needed an automated, secure, and user-friendly solution for distributing and updating class schedules, replacing manual processes and outdated tools.
+
+**Solution:**  
 - Automated fetching and updating of lesson plans  
 - Secure access via integrated WireGuard VPN  
 - Simple deployment with Docker Compose  
 - Web-based admin dashboard and user management  
+- Adopted as the official scheduling solution at WSPA
+
 **Stack:** Python · MongoDB · Docker · WireGuard
 
 ---
 
-### [Telegram-Service-Bot](https://github.com/Klegus/Telegram-Service-Bot)
+### [Telegram Bot as a Shop](https://github.com/Klegus/Telegram-Service-Bot)
 A scalable, white-label e-commerce system for selling digital products directly via Telegram.
 
-**Challenge:**  
-Build a fully automated, multi-tenant sales platform for digital goods, with seamless payment and delivery—operating entirely through Telegram.
+**Problem:**  
+Building a fully automated, multi-tenant sales platform for digital goods, with seamless payment and delivery—operating entirely through Telegram.
 
-**Solution Highlights:**  
+**Solution:**  
 - Telegram bot storefront for customers  
 - Web admin panel built with Tailwind CSS and Python backend  
 - Real-time statistics and analytics  
@@ -52,15 +58,12 @@ Build a fully automated, multi-tenant sales platform for digital goods, with sea
 **Stack:**  
 Python (aiogram) · Tailwind CSS (admin panel UI) · Python backend · PostgreSQL · Docker · WebSocket · JWT Auth
 
-**Result:**  
-The system processes orders automatically, reduces operational costs, and is designed for SaaS scalability.
-
 ---
 
 <div align="center">
 
 #### 📫 Let's connect!
-<a href="mailto:your.email@example.com">
+<a href="mailto:raczynskyprzemyslaw@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white&color=ea4335" alt="Email Badge"/>
 </a>
 &nbsp;
