@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/Klegus.png" width="120" alt="Klegus avatar" style="border-radius:50%;">
+# Hi, I'm Przemyslaw
 
-# Hi, I'm Klegus
-
-**Full-Stack Developer & Cloud Solutions Architect**  
+** Junior Full-Stack Developer & Cloud Solutions Architect**  
 Lublin, Poland
 
 <br>
