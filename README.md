@@ -1,104 +1,75 @@
 <div align="center">
   
-# Hi, I'm Przemyslaw
-**Junior Full-Stack Developer & Cloud Solutions**  
+# Przemysław Raczyński
+**Full-Stack Developer & Cloud Solutions Specialist**  
 Lublin, Poland
-<br>
-<a href="mailto:raczynskyprzemyslaw@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white&color=ea4335" alt="Email Badge"/>
-</a>
-<a href="https://www.linkedin.com/in/praczynsky/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
+
+[![Email](https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:raczynskyprzemyslaw@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praczynsky/)
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Notable Projects
 
-### [just24h.email - Temporary Email Service](https://github.com/Klegus/just24h-deploy)
-A privacy-focused temporary email service with automatic 24-hour message expiration.
+### just24h.email
+**Temporary Email Service** | [View Project](https://just24h.email)
+- Privacy-focused service with 24-hour message expiration and real-time notifications
+- **Tech:** Node.js, React, Redis, AWS, Docker, GitHub Actions
 
-**Problem:**  
-Users need disposable email addresses for sign-ups and one-time verifications without compromising their primary email security or dealing with spam.
+### LessonPlanApp
+**University Schedule Management Platform** | [View Project](https://planinf.pl)
+- Automated system for university schedules, adopted by WSPA University
+- **Tech:** Python, FastAPI, MongoDB, Next.js, Docker
 
-**Solution:**  
-- One-click creation of temporary email addresses
-- Email aliases and forwarding capabilities
-- Real-time notifications via WebSockets
-- Verification code-based authentication (no passwords)
-- Automatic 24-hour lifecycle for all messages
-- Complete containerization with Docker
-
-**Stack:** Node.js · React · Redis · AWS · GitHub Actions · Docker
-
-[Website](https://just24h.email)
+### Telegram Shop Bot
+**Digital Product E-commerce Solution**
+- Multi-tenant platform for digital goods with crypto payments and live support
+- **Tech:** Python, Tailwind CSS, PostgreSQL, Docker, WebSocket
 
 ---
 
-### [Full-Stack LessonPlanApp](https://github.com/Klegus/FullStackLessonPlanApp)
-A modern, containerized platform for managing and distributing lesson schedules, officially adopted by WSPA University.
-
-**Problem:**  
-The university needed an automated, secure, and user-friendly solution for distributing and updating class schedules, replacing manual processes and outdated tools.
-
-**Solution:**  
-- Automated fetching and updating of lesson plans from EXCEL files
-- Simple deployment with Docker Compose  
-- Web-based admin dashboard and user management 
-- Adopted as the official scheduling solution at WSPA
-
-**Stack:** Python · FastAPI · MongoDB · Next.js · Docker · WireGuard
-
-[Website](https://planinf.pl)
-
----
-
-### [Telegram Bot as a Shop](https://github.com/Klegus/Telegram-Service-Bot)
-A scalable, white-label e-commerce system for selling digital products directly via Telegram.
-
-**Problem:**  
-Building a fully automated, multi-tenant sales platform for digital goods, with seamless payment and delivery—operating entirely through Telegram.
-
-**Solution:**  
-- Telegram bot storefront for customers  
-- Web admin panel built with Tailwind CSS and Python backend  
-- Real-time statistics and analytics  
-- Live chat connecting customers and admins (WebSocket)  
-- Cryptocurrency payments via NowPayments API  
-- Automated digital product delivery  
-- Multi-store (white-label) support and 24/7 operation
-
-**Stack:** Python (aiogram) · Tailwind CSS · PostgreSQL · Docker · WebSocket · JWT Auth
-
----
+## 💻 Technical Expertise
 
 <div align="center">
 
-## 💻 Technologies I Work With
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Frontend Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+### Database & Data Storage
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### DevOps & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-</div>
+### Tools & Security
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-4A90E2?style=for-the-badge&logo=auth0&logoColor=white)
 
----
-
-<div align="center">
-
-#### 📫 Let's connect!
-<a href="mailto:raczynskyprzemyslaw@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white&color=ea4335" alt="Email Badge"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/praczynsky/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
 </div>
